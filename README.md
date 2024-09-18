@@ -1,5 +1,4 @@
 
-Certainly! Here's a suggested template for your profile description based on your interest in Data Science:
 
 👋 Hi, I’m @Siddhiiinirmal26!
 👀 I’m a passionate Data Science student, eager to explore the vast world of data and uncover meaningful insights.
